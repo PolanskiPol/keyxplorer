@@ -7,6 +7,7 @@ Keyxplorer is a plugin to add input remapping inside your games with ease.
 * Easy input remapping
 * Support for Keyboard, Mouse and Controllers
 * Built-in UI class to show and edit input maps
+* Built-in resource to show non-keyboard inputs as icons in the UI
 
 ## Installing
 1. Download the latest release available from the "Releases" tab
